@@ -1,16 +1,23 @@
-# swichthemebloc
+# Switch Theme
 
-A new Flutter project.
+In this Application we can change the theme of application. This application is made using bloc.
 
-## Getting Started
+## Pages
 
-This project is a starting point for a Flutter application.
+It has two main pages:
+   1. Home page 
+   2. Switch Theme Page
+   
+## Packages Used:
+  
+  1. Bloc
+  2. equatable
+  
+## Features:
 
-A few resources to get you started if this is your first Flutter project:
+  1. User can change the theme of application.
+ 
+## Demo
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/100132569/160399923-6a59b53f-679f-448a-8d4d-35fbbb8edd79.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
