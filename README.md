@@ -1,6 +1,6 @@
 # Switch Theme
 
-In this Application we can change the theme of application. This application is made using bloc.
+In this Application we can change the theme of application. This application is made using bloc pattern.
 
 ## Pages
 
