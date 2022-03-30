@@ -10,8 +10,8 @@ It has two main pages:
    
 ## Packages Used:
   
-  1. Bloc
-  2. equatable
+  1. flutter_bloc (https://pub.dev/packages/flutter_bloc/versions/8.0.1)
+  2. equatable (https://pub.dev/packages/equatable/versions/2.0.3)
   
 ## Features:
 
