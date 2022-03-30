@@ -6,7 +6,7 @@ In this Application we can change the theme of application. This application is 
 
 It has two main pages:
    1. Home page 
-   2. Switch Theme Page
+   2. Switch Theme Page (to change theme)
    
 ## Packages Used:
   
